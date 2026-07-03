@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dev-siter.github.io/griptok/sitemap.xml
+Sitemap: https://dev-siter.github.io/sitemap.xml
